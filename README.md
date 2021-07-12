@@ -5,3 +5,4 @@ basic html.css,and javascript tags.
 ![file 3](https://user-images.githubusercontent.com/85819910/125234999-655c0780-e2ff-11eb-9b7a-26785f894a80.png)
 ![file 4](https://user-images.githubusercontent.com/85819910/125235088-86bcf380-e2ff-11eb-9418-ce79d7b01a1e.png)
 ![file 5](https://user-images.githubusercontent.com/85819910/125235179-ace29380-e2ff-11eb-9148-65b15a14d8bc.png)
+![file 6](https://user-images.githubusercontent.com/85819910/125235294-de5b5f00-e2ff-11eb-89a1-bc4da34f2208.png)
