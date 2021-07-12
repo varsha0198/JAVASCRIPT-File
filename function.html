@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>file 2</title>
+    </head>
+    <body style="background-color: navy;">
+        <h1 style="color: oldlace;">Example with the Function.</h1>
+        <button type="button" onclick="getMessage()">Click</button>
+        <p id="p1" style="color: oldlace;"></p>
+        <button type="button" onclick="showMessage()">Click here</button>
+        <P id="p2" style="color: oldlace;"></P>
+        <script>
+            function getMessage(){
+                document.getElementById("p1").innerHTML="Hello from javascript."
+            }
+            function showMessage(){  
+                document.getElementById("p2").innerHTML="Hello from HTML."
+            }
+        </script>
+    </body>
+</html>

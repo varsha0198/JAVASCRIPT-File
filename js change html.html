@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>file 5</title>
+    </head>
+    <body style="background-color: rgb(142, 248, 121);">
+        <h1 style="color: navy;">Javascript can change HTML.</h1>
+        <p id="p2" style="color:darkslategray ;">Js can change HTML content.</p>
+        <button type="button"
+        onclick="document.getElementById('p2').innerHTML='HELLO JAVASCIPT'">Click</button>
+            
+       <p id="p3" style="color: darkslategray;">HELLO WORLD </p>
+       <button type="button"
+            onclick="document.getElementById('p3').innerHTML='GOODBYE WORLD'">Click</button>
+        <br>
+        <br>
+        <h1 style="color: navy;">JS change HTML content by using function.</h1>
+        <br>
+       <P id="demo" style="color: darkslategray;">JS change HTML.</P>
+       <button type="button" onclick="myFunction()">Click</button>
+       <script>
+            function myFunction(){
+            document.getElementById('demo').innerHTML=
+            "Hello Varsha"
+           }
+       </script>
+
+    </body>
+</html>
